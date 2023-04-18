@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F9ramee&count_bg=%23FF0000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=github&edge_flat=false)](https://hits.seeyoufarm.com)
-### Hi there, I'm GWIRIM KIM 👋
+<!-- ### Hi there, I'm GWIRIM KIM 👋
 
 #### SW Engineering
 Developers who create beneficial social values   
 A developer who thinks, researches, creates, and connects to practical realization by web
-
+-->
 
 🛠️ Stacks
 
@@ -56,8 +56,9 @@ Samsung SW *Pro Level*
 |Microsoft News Recommendation|World 2nd Prize|Oct 21, 2020|
 |Kaggle Man/Female Predict Competition|1st|Jan 25, 2019| -->
 
-
+<!--
 
 
 There are many parts of the project and development source that I have been unable to disclose due to internal confidentiality and the organizer's pledge of confidentiality.  
 Please understand.
+-->
